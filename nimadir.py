@@ -7,3 +7,4 @@ k = 100
 s = 200
 text = "masterda uzgarish buldi "
 text2 = "masterda uzgarish buldi "
+text3 = "masterda uzgarish buldi "
