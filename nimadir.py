@@ -5,3 +5,5 @@ c = 30
 f = 50
 k = 100
 s = 200
+text = "masterda uzgarish buldi "
+text2 = "masterda uzgarish buldi "
